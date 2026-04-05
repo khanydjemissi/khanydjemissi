@@ -38,15 +38,24 @@ Actuellement en MSc Applied Data Engineering for AI à la DSTI (Paris), en reche
 ---
 
 ## Projets
-
-> *Section en cours de construction — les projets arriveront au fil de la formation.*
-
+ 
+> *Les projets data sont en cours de construction au fil de la formation DSTI.*
+ 
+**Projets à venir — Data Engineering**
+ 
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | 🔧 *ETL Pipeline* | *(à venir)* Extraction, transformation et chargement de données publiques | Python · SQL · pandas |
 | 📊 *Data Dashboard* | *(à venir)* Visualisation interactive d'un dataset métier | Streamlit · Python |
 | ⚡ *Stream Processing* | *(à venir)* Pipeline temps réel sur données en flux | Kafka · Spark |
-
+ 
+**Projets académiques — ESAIP**
+ 
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 🌿 Design4Green 2022 | Hackathon national d'écoconception numérique — conception d'une solution tech en équipe de 4 en tenant compte de l'empreinte environnementale du logiciel | Travail d'équipe · Écoconception |
+| 🃏 Citadelles en Java | Recréation complète du jeu de société Citadelles — modélisation des règles, gestion des états de jeu, architecture orientée objet | Java · POO · MVC |
+ 
 ---
 
 ## Parcours
