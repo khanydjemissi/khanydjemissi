@@ -53,7 +53,7 @@ Actuellement en MSc Applied Data Engineering for AI à la DSTI (Paris), en reche
  
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🌿 Design4Green 2022 | Hackathon national d'écoconception numérique — conception d'une solution tech en équipe de 4 en tenant compte de l'empreinte environnementale du logiciel | Travail d'équipe · Écoconception |
+| 🌿 Design4Green 2022 | Hackathon national — conception en équipe de 4 d'une page web accessible (norme RGAA) et d'une cartographie des formations au Numérique Responsable sur le territoire français | HTML · CSS · JavaScript · Accessibilité · RGAA |
 | 🃏 Citadelles en Java | Recréation complète du jeu de société Citadelles — modélisation des règles, gestion des états de jeu, architecture orientée objet | Java · POO · MVC |
  
 ---
