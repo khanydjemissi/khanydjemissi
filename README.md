@@ -2,7 +2,7 @@
 
 **Data Engineering & AI · MSc DSTI Paris · Ingénieur ESAIP**
 
-Je construis des pipelines de données et des systèmes orientés IA — avec un background solide en développement logiciel (Python, .NET, Docker) et une spécialisation en cloud et machine learning.
+Je construis des pipelines de données et des systèmes orientés IA avec un background solide en développement logiciel (Python, .NET, Docker) et une spécialisation en cloud et machine learning.
 
 Actuellement en MSc Applied Data Engineering for AI à la DSTI (Paris), en recherche d'alternance.
 
@@ -30,10 +30,10 @@ Actuellement en MSc Applied Data Engineering for AI à la DSTI (Paris), en reche
 
 ## En ce moment
 
-- **Formation** — MSc Data Engineering for AI @ DSTI Paris (mars 2026)
-- **Apprentissage** — Spark, Kafka, pipelines ETL, Big Data Ecosystem
-- **Objectif** — Construire des projets data end-to-end et décrocher une alternance Data Engineer
-- **Certification** — Préparation AWS Solutions Architect + Azure DP-900
+- **Formation** - MSc Data Engineering for AI @ DSTI Paris (mars 2026)
+- **Apprentissage** - Spark, Kafka, pipelines ETL, Big Data Ecosystem
+- **Objectif** - Construire des projets data end-to-end et décrocher une alternance Data Engineer
+- **Certification** - Préparation AWS Solutions Architect + Azure DP-900
 
 ---
 
@@ -41,7 +41,7 @@ Actuellement en MSc Applied Data Engineering for AI à la DSTI (Paris), en reche
  
 > *Les projets data sont en cours de construction au fil de la formation DSTI.*
  
-**Projets à venir — Data Engineering**
+**Projets à venir - Data Engineering**
  
 | Projet | Description | Stack |
 |--------|-------------|-------|
@@ -49,12 +49,12 @@ Actuellement en MSc Applied Data Engineering for AI à la DSTI (Paris), en reche
 | 📊 *Data Dashboard* | *(à venir)* Visualisation interactive d'un dataset métier | Streamlit · Python |
 | ⚡ *Stream Processing* | *(à venir)* Pipeline temps réel sur données en flux | Kafka · Spark |
  
-**Projets académiques — ESAIP**
+**Projets académiques - ESAIP**
  
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🌿 Design4Green 2022 | Hackathon national — conception en équipe de 4 d'une page web accessible (norme RGAA) et d'une cartographie des formations au Numérique Responsable sur le territoire français | HTML · CSS · JavaScript · Accessibilité · RGAA |
-| 🃏 Citadelles en Java | Recréation complète du jeu de société Citadelles — modélisation des règles, gestion des états de jeu, architecture orientée objet | Java · POO · MVC |
+| 🌿 Design4Green 2022 | Hackathon national - conception en équipe de 4 d'une page web accessible (norme RGAA) et d'une cartographie des formations au Numérique Responsable sur le territoire français | HTML · CSS · JavaScript · Accessibilité · RGAA |
+| 🃏 Citadelles en Java | Recréation complète du jeu de société Citadelles - modélisation des règles, gestion des états de jeu, architecture orientée objet | Java · POO · MVC |
  
 ---
 
@@ -72,8 +72,8 @@ Actuellement en MSc Applied Data Engineering for AI à la DSTI (Paris), en reche
 
 ## Certifications
 
-- **Microsoft Azure AI-900** — AI Fundamentals ✓
-- **TOEIC 915/990** — Niveau B2 anglais ✓
+- **Microsoft Azure AI-900** - AI Fundamentals ✓
+- **TOEIC 915/990** - Niveau B2 anglais ✓
 - AWS Solutions Architect Associate *(en cours)*
 - Azure DP-900 *(en cours)*
 - Neo4j Certified Professional *(en cours)*
